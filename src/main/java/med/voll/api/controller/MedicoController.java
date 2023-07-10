@@ -19,6 +19,4 @@ public class MedicoController {
     public void cadastar(@RequestBody @Valid DadosCadastroMedicos dados){
         repository.save(new Medico(dados));
     }
-
-
 }
