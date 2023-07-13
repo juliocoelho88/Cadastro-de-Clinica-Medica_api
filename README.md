@@ -31,6 +31,9 @@ Maven instalado: Download Maven
 MySQL instalado e configurado: Download MySQL
 Além disso, é necessário configurar as informações de conexão com o banco de dados no arquivo application.properties. Certifique-se de fornecer as informações corretas para o URL, nome do banco de dados, nome de usuário e senha.
 
+<h2>Contribuição</h2>
+Este projeto foi desenvolvido como parte de um processo de aprendizado e, portanto, não está aberto para contribuições externas no momento. No entanto, sinta-se à vontade para fazer um fork do repositório e modificar o projeto para seus próprios fins.
+
 Executando o Projeto
 Para executar o projeto, siga as etapas abaixo:
 
