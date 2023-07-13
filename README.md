@@ -1,4 +1,4 @@
-<h1>Projeto de Aprendizado de SpringBoot 3.0 - CRUD de Médicos e Pacientes<h1/>
+Projeto de Aprendizado de SpringBoot 3.0 - CRUD de Médicos e Pacientes
 Este é um projeto desenvolvido como parte do aprendizado do SpringBoot 3.0, com foco na construção de uma API REST para gerenciar um sistema de uma clínica médica. O projeto inclui um CRUD (Create, Read, Update, Delete) completo para médicos e pacientes, utilizando diversas tecnologias e frameworks, como Maven, Lombok, MySQL, JPA e validações.
 
 Funcionalidades
