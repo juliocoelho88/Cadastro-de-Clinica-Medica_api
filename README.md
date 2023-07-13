@@ -1,7 +1,9 @@
-Projeto de Aprendizado de SpringBoot 3.0 - CRUD de Médicos e Pacientes
+<h1>Projeto de Aprendizado de SpringBoot 3.0 - CRUD de Médicos e Pacientes.</h1>
+
+
 Este é um projeto desenvolvido como parte do aprendizado do SpringBoot 3.0, com foco na construção de uma API REST para gerenciar um sistema de uma clínica médica. O projeto inclui um CRUD (Create, Read, Update, Delete) completo para médicos e pacientes, utilizando diversas tecnologias e frameworks, como Maven, Lombok, MySQL, JPA e validações.
 
-Funcionalidades
+<h2>Funcionalidades</h2>
 O projeto possui as seguintes funcionalidades principais:
 
 Cadastro de médicos: permite cadastrar informações como nome, especialidade, endereço e contato do médico.
@@ -33,3 +35,5 @@ Executando o Projeto
 Para executar o projeto, siga as etapas abaixo:
 
 Clone o repositório para sua máquina local:
+git clone https://github.com/juliocoelho88/api.git
+
